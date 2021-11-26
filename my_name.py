@@ -2,4 +2,9 @@
 Joshua Mitchell
 """
 
-print("Joshua Mitchell")
+
+def main():
+    print("Joshua Mitchell")
+
+
+main()
